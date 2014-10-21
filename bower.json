@@ -1,0 +1,24 @@
+{
+  "name": "is-it-bst",
+  "main": "index.js",
+  "version": "0.0.0",
+  "authors": [
+    "Callum Locke"
+  ],
+  "description": "Tells you whether a date falls within British Summer Time",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "timezone",
+    "bst"
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/callumlocke/is-it-bst",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "test.js",
+    "package.json"
+  ]
+}

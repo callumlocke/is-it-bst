@@ -1,0 +1,26 @@
+{
+  "name": "is-it-bst",
+  "version": "0.0.0",
+  "description": "Tells you whether a date falls within British Summer Time",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/callumlocke/is-it-bst"
+  },
+  "keywords": [
+    "timezone",
+    "bst"
+  ],
+  "author": "Callum Locke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/callumlocke/is-it-bst/issues"
+  },
+  "homepage": "https://github.com/callumlocke/is-it-bst",
+  "devDependencies": {
+    "chai": "~1.9.2",
+    "mocha": "~1.21.5"
+  }
+}
