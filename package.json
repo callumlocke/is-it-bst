@@ -1,6 +1,6 @@
 {
   "name": "is-it-bst",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Tells you whether a date falls within British Summer Time",
   "scripts": {
     "test": "mocha"
