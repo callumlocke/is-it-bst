@@ -11,7 +11,8 @@
   },
   "keywords": [
     "timezone",
-    "bst"
+    "bst",
+    "daylight saving time"
   ],
   "author": "Callum Locke",
   "license": "MIT",
